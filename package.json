@@ -23,7 +23,12 @@
     "css",
     "unify",
     "rework",
-    "frontend"
+    "js",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
   ],
   "author": "Dave Poon",
   "license": "ISC",
