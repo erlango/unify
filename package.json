@@ -1,0 +1,34 @@
+{
+  "name": "unify",
+  "version": "0.0.1",
+  "description": "Unify front-end framework",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "autoprefixer": "~1.1.20140605",
+    "rework": "~0.20.3"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/erlango/unify.git"
+  },
+  "keywords": [
+    "css",
+    "unify",
+    "rework",
+    "frontend"
+  ],
+  "author": "Dave Poon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erlango/unify/issues"
+  },
+  "homepage": "https://github.com/erlango/unify"
+}
