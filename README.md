@@ -1,4 +1,4 @@
 unify
 =====
 
-A tiny dead simple front end framework for any size of web project. http://unifycss.io
+A component-based UI framework for single-page interface and web app. http://unifycss.io
